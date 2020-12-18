@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Diving deep into front-end technologies and learning new concepts often.
 - 🎓 &nbsp; Studying Web Development and Computer Science at Lambda School.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -35,7 +35,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.corythomas.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.corythomas.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/corythomasdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cory%20Thomas%20dev-blue?style=flat-square&logo=linkedin"></a>
 </p>
