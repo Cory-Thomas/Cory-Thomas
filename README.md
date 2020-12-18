@@ -24,6 +24,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman)
+  ![Zoom](https://img.shields.io/badge/-zoom-333333?style=flat&logo=zoom&logoColor=5DDBF3)
+  ![Slack](https://img.shields.io/badge/-slack-333333?style=flat&logo=slack)
 
 <br/>
 
