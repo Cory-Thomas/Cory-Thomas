@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Diving deep into front-end technologies and learning new concepts often.
-- 🎓 &nbsp; Studying Web Development and Computer Science at Lambda School.
+- 🎓 &nbsp; Studied Web Development and Computer Science at Lambda School and became officially endorsed by them.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
