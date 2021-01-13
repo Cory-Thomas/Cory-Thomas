@@ -2,8 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Diving deep into front-end technologies and learning new concepts often.
-- 🎓 &nbsp; Studied Web Development and Computer Science at Lambda School and became officially endorsed by them.
+- 🎓 &nbsp; Officially endorsed and studied Web Development and Computer Science at Lambda School.
+- 🌱 &nbsp; Currently diving deeper into React and Typescript.
+- 🤔 &nbsp; Challenging and pushing myself daily with computer science / algorithm problems.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -12,7 +13,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
 - 🛢 &nbsp;
